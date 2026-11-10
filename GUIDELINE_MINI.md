@@ -23,5 +23,5 @@
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
 | `drive_044` | Xe di chuyển nhanh, bị nhòe | Đống khung cả phần nhòe | Vẫn đủ thông tin để biết đó là phương tiện gì |
-| `drive_003` | Có nhiều xe nhỏ ở xa, nói đuôi nhau, chắc chắn có xe nhưng không biết bao nhiêu xe| Không gán nhãn vì không đủ thông tin để phân loại xe | |
-| `drive_005` | Có nhiều xe nhỏ ở xa, khó phân loại, không biết có bao nhiêu xe | Không gán nhãn, không đủ thông tin phân loại xe | |
+| `drive_003` | Có nhiều xe nhỏ ở xa, nói đuôi nhau, chắc chắn có xe nhưng không biết bao nhiêu xe| Không gán nhãn | Không có đủ thông tin để phân loại xe |
+| `drive_005` | Có nhiều xe nhỏ ở xa, khó phân loại, không biết có bao nhiêu xe | Không gán nhãn | Không có đủ thông tin để phân loại xe |
